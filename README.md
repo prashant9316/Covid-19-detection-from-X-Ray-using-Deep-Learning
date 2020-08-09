@@ -1,0 +1,1 @@
+# Detecting Covid-19 using Transfer Learning in PyTorch with ResNet18 Model.
